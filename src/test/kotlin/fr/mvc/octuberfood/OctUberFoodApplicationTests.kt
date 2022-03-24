@@ -1,10 +1,10 @@
-package fr.mvc.myspotify
+package fr.mvc.octuberfood
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class MySpotifyMVCApplicationTests {
+class OctUberFoodApplicationTests {
 
 	@Test
 	fun contextLoads() {

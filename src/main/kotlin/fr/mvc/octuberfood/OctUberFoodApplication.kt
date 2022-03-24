@@ -1,11 +1,11 @@
-package fr.mvc.myspotify
+package fr.mvc.octuberfood
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class MySpotifyMVCApplication
+class OctUberFoodApplication
 
 fun main(args: Array<String>) {
-	runApplication<MySpotifyMVCApplication>(*args)
+	runApplication<OctUberFoodApplication>(*args)
 }
